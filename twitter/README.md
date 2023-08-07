@@ -1,23 +1,16 @@
-# 0x02. Flutter - Twitter clone: static part 1
+# twitter
 
-> This directory contains all the tasks of the project "0x02. Flutter - Twitter clone: static part 1" at [Holberton School](https://www.holbertonschool.com 'Holberton School.') for educational purpose.
+A new Flutter project.
 
-## Table of Contents
+## Getting Started
 
-- [0x02. Flutter - Twitter clone: static part 1](#0x02-flutter---twitter-clone-static-part-1)
-  - [Table of Contents](#table-of-contents)
-  - [Author](#author)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+This project is a starting point for a Flutter application.
 
-## Author
+A few resources to get you started if this is your first Flutter project:
 
-- Valentina Jaramillo Ramirez - [Github](https://github.com/valen2510) / [Twitter](https://twitter.com/valen2510)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## License
-
-Opensource project.
-
-## Acknowledgments
-
-- Project made at Holberton School - Colombia.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
